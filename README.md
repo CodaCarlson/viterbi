@@ -1,8 +1,9 @@
 CS5114 Viterbi Project
 ======================
 In the Summer of 2014 I took CS5114, Theory of Algorithms, at VT.  Our first
-project was to analyze a Dynamic Programming algorithm.  I chose to look at the 
-Viterbi algorithm for decoding Convolutional Codes.
+project was to analyze a Dynamic Programming algorithm, and I chose to look at the 
+Viterbi algorithm for decoding Convolutional Codes.  This repository includes
+the results of that project.
 
 Contents
 --------
@@ -22,3 +23,5 @@ once in a while they will fail
 The second script, timing_test, will run the decoders on different lengths of
 bits to measure their runtime, and then plot the results.  This serves to verify
 my estimates of runtimes from the paper.
+
+The repository also contains the paper and presentation that I made.
