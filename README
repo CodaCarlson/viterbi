@@ -1,3 +1,11 @@
+CS5114 Viterbi Project
+======================
+In the Summer of 2014 I took CS5114, Theory of Algorithms, at VT.  Our first
+project was to analyze a Dynamic Programming algorithm.  I chose to look at the 
+Viterbi algorithm for decoding Convolutional Codes.
+
+Contents
+--------
 This repository contains several MATLAB functions and a couple of scripts.
 The scripts can be used to easily test the functionality of the various
 convolutional decoder algorithms.
